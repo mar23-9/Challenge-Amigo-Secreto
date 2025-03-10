@@ -15,13 +15,6 @@ Este proyecto es una solución al challenge de Amigo Secreto propuesto por Alura
 3. **Reinicio Automático**: Una vez finalizado el sorteo, el programa se reinicia automáticamente para permitir un nuevo sorteo.
 4. **Interfaz Amigable**: La interfaz es sencilla y fácil de usar, con estilos modernos y responsivos.
 
-## Instalación
-
-No es necesaria ninguna instalación especial para este proyecto. Solo necesitas un navegador web para ejecutar el programa.
-
-1. Clona este repositorio o descarga los archivos.
-2. Abre el archivo `index.html` en tu navegador.
-
 ## Uso
 
 1. Ingresa los nombres de los participantes en el campo de texto.

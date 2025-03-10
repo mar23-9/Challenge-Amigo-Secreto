@@ -34,7 +34,7 @@ function sortearAmigo(){
     let resultado = document.getElementById("resultado")
     if(amigos){
         let amigoSecreto = amigos[indiceAleratorio];
-        if (!amigosObtenidos.includes(amigoSecreto && !yo)){
+        if (!amigosObtenidos.includes(amigoSecreto)){
             amigosObtenidos.push(amigoSecreto);
             console.log(amigosObtenidos);
             resultado.innerHTML = amigoSecreto;
